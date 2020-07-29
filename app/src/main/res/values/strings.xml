@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidLiveData</string>
+    <string name="arch_activity">ArchActivity</string>
+</resources>
